@@ -1,6 +1,6 @@
 # User Stories
 
-1. US1: Plan a Trip
+1. US1: Plan a Trip<br>
 _Description_:As a user i want to Plan a trip by filling out a "from"  and "to" value also i want to plan for a specific Date and time. 
 And display all results.
 2. US2: Plan a Trip with specific Settings
