@@ -6,4 +6,4 @@ Feature: Get a list of possible travel option on a specific Address
 
   Scenario:Look up address
     When I type "Pünkösdfürdő" into Search for lines, stops and addresses field
-    Then I get a dropdown Menu with all the Stops and Lin information in that street
+    Then I get a dropdown Menu with all the Stops and Line information in that street

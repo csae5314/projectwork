@@ -5,5 +5,5 @@ Feature: Start a Bug Report
     When I accept cookies
 
   Scenario: Bug report
-    When I click Report a bug
+    When I Start a Bug Report
     Then Report a bug page is opened
